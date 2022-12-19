@@ -1,5 +1,4 @@
 from valida_telefones import Telefones
-import re
 
 telefone = "551179481642"
 
